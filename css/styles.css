@@ -62,3 +62,11 @@ p {
 #info-2 {
   margin: 20px 0 60px 0;
 }
+
+#contact {
+  background: url('../img/image3.png');
+  padding: 40px;
+  color: #FFF;
+  border-top: #333 solid 7px;
+  border-bottom: #333 solid 7px;
+}
