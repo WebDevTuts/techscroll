@@ -70,3 +70,7 @@ p {
   border-top: #333 solid 7px;
   border-bottom: #333 solid 7px;
 }
+
+footer {
+  padding: 30px;
+}
