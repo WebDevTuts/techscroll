@@ -3,3 +3,5 @@
 Inspired by [ydirection website](http://ydirection.com/advent), let's build a simple landing page website with [JavaScript scroll reveal plugin](https://github.com/jlmakes/scrollreveal).
 
 [View demo site here.](https://webdevtuts.github.io/techscroll/)
+
+![screenshot](screenshot.png)
